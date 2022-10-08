@@ -1,8 +1,8 @@
 # PY-Asocijacije
-Game from the popular TV show Slagalica
+Python GUI quiz, inspired by the game Asocijacije from the popular Serbian TV show Slagalica.
 
 REQUIREMENTS:
 * Numpy
 * Tkinter
 
-Contains data in the *manual* folder
+Contains data in the *manual* folder.
